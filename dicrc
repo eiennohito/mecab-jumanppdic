@@ -2,6 +2,7 @@ bos-feature = BOS/EOS,*,*,*,*,*,*
 cost-factor = 800
 eval-size = 4
 unk-eval-size = 2
+config-charset = UTF-8
 
 ; yomi
 node-format-yomi = %pS%f[5]

@@ -1,0 +1,7 @@
+*.csv
+*.mdic
+char.bin
+matrix.bin
+model.def
+sys.dic
+unk.dic
